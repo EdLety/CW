@@ -1,0 +1,14 @@
+C:\Users\nuss.ea\Pictures\CW\CSharp\DuplicateCount\DuplicateCount\bin\Debug\net6.0\DuplicateCount.exe
+C:\Users\nuss.ea\Pictures\CW\CSharp\DuplicateCount\DuplicateCount\bin\Debug\net6.0\DuplicateCount.deps.json
+C:\Users\nuss.ea\Pictures\CW\CSharp\DuplicateCount\DuplicateCount\bin\Debug\net6.0\DuplicateCount.runtimeconfig.json
+C:\Users\nuss.ea\Pictures\CW\CSharp\DuplicateCount\DuplicateCount\bin\Debug\net6.0\DuplicateCount.dll
+C:\Users\nuss.ea\Pictures\CW\CSharp\DuplicateCount\DuplicateCount\bin\Debug\net6.0\DuplicateCount.pdb
+C:\Users\nuss.ea\Pictures\CW\CSharp\DuplicateCount\DuplicateCount\obj\Debug\net6.0\DuplicateCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuss.ea\Pictures\CW\CSharp\DuplicateCount\DuplicateCount\obj\Debug\net6.0\DuplicateCount.AssemblyInfoInputs.cache
+C:\Users\nuss.ea\Pictures\CW\CSharp\DuplicateCount\DuplicateCount\obj\Debug\net6.0\DuplicateCount.AssemblyInfo.cs
+C:\Users\nuss.ea\Pictures\CW\CSharp\DuplicateCount\DuplicateCount\obj\Debug\net6.0\DuplicateCount.csproj.CoreCompileInputs.cache
+C:\Users\nuss.ea\Pictures\CW\CSharp\DuplicateCount\DuplicateCount\obj\Debug\net6.0\DuplicateCount.dll
+C:\Users\nuss.ea\Pictures\CW\CSharp\DuplicateCount\DuplicateCount\obj\Debug\net6.0\refint\DuplicateCount.dll
+C:\Users\nuss.ea\Pictures\CW\CSharp\DuplicateCount\DuplicateCount\obj\Debug\net6.0\DuplicateCount.pdb
+C:\Users\nuss.ea\Pictures\CW\CSharp\DuplicateCount\DuplicateCount\obj\Debug\net6.0\DuplicateCount.genruntimeconfig.cache
+C:\Users\nuss.ea\Pictures\CW\CSharp\DuplicateCount\DuplicateCount\obj\Debug\net6.0\ref\DuplicateCount.dll
