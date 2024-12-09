@@ -1,0 +1,15 @@
+C:\Users\nuss.ea\Pictures\CW\CSharp\CategorizeNewMember\CategorizeNewMember\bin\Debug\net6.0\CategorizeNewMember.exe
+C:\Users\nuss.ea\Pictures\CW\CSharp\CategorizeNewMember\CategorizeNewMember\bin\Debug\net6.0\CategorizeNewMember.deps.json
+C:\Users\nuss.ea\Pictures\CW\CSharp\CategorizeNewMember\CategorizeNewMember\bin\Debug\net6.0\CategorizeNewMember.runtimeconfig.json
+C:\Users\nuss.ea\Pictures\CW\CSharp\CategorizeNewMember\CategorizeNewMember\bin\Debug\net6.0\CategorizeNewMember.dll
+C:\Users\nuss.ea\Pictures\CW\CSharp\CategorizeNewMember\CategorizeNewMember\bin\Debug\net6.0\CategorizeNewMember.pdb
+C:\Users\nuss.ea\Pictures\CW\CSharp\CategorizeNewMember\CategorizeNewMember\obj\Debug\net6.0\CategorizeNewMember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuss.ea\Pictures\CW\CSharp\CategorizeNewMember\CategorizeNewMember\obj\Debug\net6.0\CategorizeNewMember.AssemblyInfoInputs.cache
+C:\Users\nuss.ea\Pictures\CW\CSharp\CategorizeNewMember\CategorizeNewMember\obj\Debug\net6.0\CategorizeNewMember.AssemblyInfo.cs
+C:\Users\nuss.ea\Pictures\CW\CSharp\CategorizeNewMember\CategorizeNewMember\obj\Debug\net6.0\CategorizeNewMember.csproj.CoreCompileInputs.cache
+C:\Users\nuss.ea\Pictures\CW\CSharp\CategorizeNewMember\CategorizeNewMember\obj\Debug\net6.0\CategorizeNewMember.sourcelink.json
+C:\Users\nuss.ea\Pictures\CW\CSharp\CategorizeNewMember\CategorizeNewMember\obj\Debug\net6.0\CategorizeNewMember.dll
+C:\Users\nuss.ea\Pictures\CW\CSharp\CategorizeNewMember\CategorizeNewMember\obj\Debug\net6.0\refint\CategorizeNewMember.dll
+C:\Users\nuss.ea\Pictures\CW\CSharp\CategorizeNewMember\CategorizeNewMember\obj\Debug\net6.0\CategorizeNewMember.pdb
+C:\Users\nuss.ea\Pictures\CW\CSharp\CategorizeNewMember\CategorizeNewMember\obj\Debug\net6.0\CategorizeNewMember.genruntimeconfig.cache
+C:\Users\nuss.ea\Pictures\CW\CSharp\CategorizeNewMember\CategorizeNewMember\obj\Debug\net6.0\ref\CategorizeNewMember.dll
