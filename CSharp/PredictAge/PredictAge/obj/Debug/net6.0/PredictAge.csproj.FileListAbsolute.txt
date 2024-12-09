@@ -1,0 +1,15 @@
+C:\Users\nuss.ea\Pictures\CW\CSharp\PredictAge\PredictAge\bin\Debug\net6.0\PredictAge.exe
+C:\Users\nuss.ea\Pictures\CW\CSharp\PredictAge\PredictAge\bin\Debug\net6.0\PredictAge.deps.json
+C:\Users\nuss.ea\Pictures\CW\CSharp\PredictAge\PredictAge\bin\Debug\net6.0\PredictAge.runtimeconfig.json
+C:\Users\nuss.ea\Pictures\CW\CSharp\PredictAge\PredictAge\bin\Debug\net6.0\PredictAge.dll
+C:\Users\nuss.ea\Pictures\CW\CSharp\PredictAge\PredictAge\bin\Debug\net6.0\PredictAge.pdb
+C:\Users\nuss.ea\Pictures\CW\CSharp\PredictAge\PredictAge\obj\Debug\net6.0\PredictAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuss.ea\Pictures\CW\CSharp\PredictAge\PredictAge\obj\Debug\net6.0\PredictAge.AssemblyInfoInputs.cache
+C:\Users\nuss.ea\Pictures\CW\CSharp\PredictAge\PredictAge\obj\Debug\net6.0\PredictAge.AssemblyInfo.cs
+C:\Users\nuss.ea\Pictures\CW\CSharp\PredictAge\PredictAge\obj\Debug\net6.0\PredictAge.csproj.CoreCompileInputs.cache
+C:\Users\nuss.ea\Pictures\CW\CSharp\PredictAge\PredictAge\obj\Debug\net6.0\PredictAge.sourcelink.json
+C:\Users\nuss.ea\Pictures\CW\CSharp\PredictAge\PredictAge\obj\Debug\net6.0\PredictAge.dll
+C:\Users\nuss.ea\Pictures\CW\CSharp\PredictAge\PredictAge\obj\Debug\net6.0\refint\PredictAge.dll
+C:\Users\nuss.ea\Pictures\CW\CSharp\PredictAge\PredictAge\obj\Debug\net6.0\PredictAge.pdb
+C:\Users\nuss.ea\Pictures\CW\CSharp\PredictAge\PredictAge\obj\Debug\net6.0\PredictAge.genruntimeconfig.cache
+C:\Users\nuss.ea\Pictures\CW\CSharp\PredictAge\PredictAge\obj\Debug\net6.0\ref\PredictAge.dll
